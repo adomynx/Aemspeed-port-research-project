@@ -171,4 +171,4 @@ cd mmdetection3d && pip install -r requirements.txt && pip install -v -e .
 
 ## License
 
-This repository is part of a Master's thesis at TH OWL and is intended for academic evaluation purposes.
+This repository is part of a Research project at TH OWL and is intended for academic evaluation purposes.
