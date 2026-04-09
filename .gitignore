@@ -1,0 +1,10 @@
+# Model weights (hosted on Google Drive)
+*.pth
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
