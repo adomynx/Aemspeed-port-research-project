@@ -2,7 +2,6 @@
 
 **Author:** Kartik Subhash Wakekar  
 **Program:** M.Sc. Electrical Engineering, TH OWL  
-**Supervisor:** Prof. Dr. Büker  
 **Total GPU-Hours:** ~344
 
 ---
